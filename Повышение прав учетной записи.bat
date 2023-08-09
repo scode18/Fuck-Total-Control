@@ -1,0 +1,1 @@
+net user Solomon /active:yes
